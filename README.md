@@ -30,28 +30,28 @@ Same as `ch2layer.c` but additionally returns the order parameter and its fluctu
 ## Simulation data
 
 #### ch2layer.dat
-Baseline simulation data from `ch2layer.c` on `1000&times;1000` lattice.
+Baseline simulation data from `ch2layer.c` on `1000x1000` lattice.
 
 #### ch2layer.dxt
-Aggregated data from several runs of `ch2layer.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `1800&times;1800`).
+Aggregated data from several runs of `ch2layer.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `1800x1800`).
 
 #### ch2layerp.dxt
-Aggregated data from several runs of `ch2layerp.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `1000&times;1000`).
+Aggregated data from several runs of `ch2layerp.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `1000x1000`).
 
 #### ch2lcov.dat
-Baseline simulation data from `ch2lcov.c` on `300&times;300` lattice.
+Baseline simulation data from `ch2lcov.c` on `300x300` lattice.
 
 #### ch2lcov.dxt
-Aggregated data from several runs of `ch2lcov.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `800&times;800`).
+Aggregated data from several runs of `ch2lcov.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `800x800`).
 
 #### chss022.eps
 Sample output from `chss.c` for a cost/benefit ratio of `r=0.0022`.
 
 #### opfluct.dat</dt>
-Baseline simulation data from `opfluct.c` on `800&times;800` lattice.
+Baseline simulation data from `opfluct.c` on `800x800` lattice.
 
 #### opfluct.dxt</dt>
-Aggregated data from several runs of `opfluct.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `1800&times;1800`).
+Aggregated data from several runs of `opfluct.c` with different parameters (longer relaxation and sampling times as well as lattice sizes up to `1800x1800`).
 
 
 ## EvoLudo project
