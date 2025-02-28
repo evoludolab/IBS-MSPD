@@ -2,7 +2,9 @@
 
 Mutualistic spatial prisoner's dilemma games
 
-Individual-based simulations for modelling the rich and complex dynamics of cooperation between two species engaging in the spatial donation game. Each species is arranged on its own lattice layer. Interactions occur between species and hence across layers, while competition arises within species and layers. 
+Individual-based simulations for modelling the rich and complex dynamics of cooperation between two species engaging in the spatial donation game. Each species is arranged on its own lattice layer. Interactions occur between species and hence across layers, while competition arises within species and layers.
+
+This source code reproduces the simulation results published in Hauert, C & Szabó, G. (2024) *Spontaneous symmetry breaking of cooperation between species* PNAS Nexus, 3 (9) pgae326, https://doi.org/10.1093/pnasnexus/pgae326
 
 ## Source code
 
